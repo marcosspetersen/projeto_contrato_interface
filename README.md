@@ -14,6 +14,7 @@ sendo a primeira parcela a ser paga um mês após a data do contrato, a segunda 
 meses após o contrato e assim por diante. Mostrar os dados das parcelas na tela.
 
 Exemplo:
+
 Enter contract data
 Number: 8028
 Date (dd/MM/yyyy): 25/06/2018
