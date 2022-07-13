@@ -1,4 +1,5 @@
 # Desafio: Contrato - interface (Projeto de Estudo)
+(Projeto de estudo envolvendo Interfacies, entidades, serviços e injeção de dependencia)
 
 Uma empresa deseja automatizar o processamento de seus contratos. O processamento de
 um contrato consiste em gerar as parcelas a serem pagas para aquele contrato, com base no
